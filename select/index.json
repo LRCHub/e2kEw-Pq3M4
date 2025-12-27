@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "絶え間なく藍色",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-27T15:52:48.119708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絶え間なく藍色 (feat. 東雲彰人&青柳冬弥&KAITO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/01_絶え間なく藍色_(feat._東雲彰人&青柳冬弥&KAITO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "絶え間なく藍色",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/02_絶え間なく藍色_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "絶え間なく藍色",
+      "artist": "Vivid BAD SQUAD feat. 東雲彰人&青柳冬弥&KAITO",
+      "has_synced": true,
+      "path": "select/03_絶え間なく藍色_Vivid_BAD_SQUAD_feat._東雲彰人&青柳冬弥&KAITO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶え間なく藍色 (feat. 東雲彰人&青柳冬弥&KAITO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_絶え間なく藍色_(feat._東雲彰人&青柳冬弥&KAITO)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
